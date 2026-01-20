@@ -4,6 +4,8 @@ This repository contains the core recommendation system powering the "For You" f
 
 > **Note:** The transformer implementation is ported from the [Grok-1 open source release](https://github.com/xai-org/grok-1) by xAI, adapted for recommendation system use cases.
 
+> **📚 For a comprehensive technical deep-dive including implementation details, data structures, dependencies, and performance characteristics, see [TECHNICAL_SUMMARY.md](TECHNICAL_SUMMARY.md)**
+
 ## Table of Contents
 
 - [Overview](#overview)
